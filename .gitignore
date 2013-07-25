@@ -1,2 +1,6 @@
 # Ignore all the vagrant files
 .vagrant
+
+# Ignore all binary and object files
+*.o
+*.bin
